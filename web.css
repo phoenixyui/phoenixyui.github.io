@@ -159,6 +159,7 @@ img {
 .tip-wrap-wait-1 {
     /* height: 300px; */
     opacity: 0;
+    position: absolute;
     transition: 60s;
 }
 
